@@ -273,7 +273,8 @@ ol.type li a:hover {
 	transform: scale(1.1);
 }
 .portfolio-item .hover-bg {
-	height: 195px;
+	width:175px;
+	height: 95px;
 	overflow: hidden;
 	position: relative;
 }
