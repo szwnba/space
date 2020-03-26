@@ -191,8 +191,8 @@ header .intro-text {
 	display: inline-block;
 }
 #about p {
-	margin-top: 40px;
-	margin-bottom: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	line-height: 22px;
 }
 /* Portfolio Section */
@@ -273,8 +273,8 @@ ol.type li a:hover {
 	transform: scale(1.1);
 }
 .portfolio-item .hover-bg {
-	width:175px;
-	height: 95px;
+/*	width:165px;*/
+	height: 195px;
 	overflow: hidden;
 	position: relative;
 }
