@@ -209,12 +209,12 @@ ul.cat li {
 }
 ol.type li {
 	display: inline-block;
-	margin-left: 20px;
+	margin-left: 10px;
 }
 ol.type li a {
 	border: 1px solid #777;
 	color: #555;
-	padding: 8px 20px;
+	padding: 6px 15px;
 }
 ol.type li a.active {
 	background: #222;
